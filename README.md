@@ -1,0 +1,2 @@
+# boilerplate
+auth template
